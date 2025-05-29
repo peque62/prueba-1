@@ -1,0 +1,33 @@
+#titulo {color:blue;}
+.contenido{color:red}
+.nuevo {color:green;}
+body{
+  font-family: verdana, sans-serif;
+  background-color: #fafafa;
+  color:#333;
+}
+header footer{
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+  background-color: #444;
+  padding:  10px;
+  display: flex;
+  justify-content: center;
+}
+nav ul li {
+  margin: 10px;
+}
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  }
+
+  section {
+  padding: 20px;
+}
